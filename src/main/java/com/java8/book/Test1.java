@@ -7,5 +7,9 @@ public class Test1 {
         System.out.println("bugfix分支，修改了一个bug");
 
         System.out.println("test1111111");
+        System.out.println("test2222");
+
+        System.out.println("执行方法");
+        System.out.println("少些了一行代码");
     }
 }
