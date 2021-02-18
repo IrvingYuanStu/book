@@ -13,7 +13,5 @@ public class Test1 {
         System.out.println("执行方法");
         System.out.println("少些了一行代码");
         System.out.println("再添加一些代码");
-
-        System.out.println("添加一些release的代码!!!!");
     }
 }
